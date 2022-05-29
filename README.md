@@ -22,5 +22,5 @@ How will Pi-Apps users send a reply back?
 To list all received error reports:
 ```bash
 sudo apt install jq curl
-curl "https://api.paste.ee/v1/pastes?perpage=200000" -H "X-Auth-Token: uaEcotUfhtDjVC1RoIW7YQuqZhCb7BchwFtIEfiSC" | jq
+curl "https://api.paste.ee/v1/pastes?perpage=200000" -H "X-Auth-Token: uEbr1hKcD2kW09gJMADRPiiEPZTeVItyvHmXoajl9" | jq
 ```
